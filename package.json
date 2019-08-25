@@ -1,0 +1,8 @@
+{
+  "name": "EGS-API",
+  "version": "1.0.0",
+  "description": "Epic Games Store API",
+  "main": "index.js",
+  "author": "STARTERGATE <32726809+startergate@users.noreply.github.com>",
+  "license": "MIT"
+}
