@@ -4,5 +4,8 @@
   "description": "Epic Games Store API",
   "main": "index.js",
   "author": "STARTERGATE <32726809+startergate@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
 }
